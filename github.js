@@ -1,8 +1,8 @@
 class GithubApiClient {
 
   constructor() {
-    this.id = 'dbd84b0cf558f9ddd2ba';
-    this.secret = '9cd982b2ee77e6f3f2ee123986c38e93b5d1c1cc';
+    this.id = '';
+    this.secret = '';
     this.reposCount = 5;
     this.reposSort = 'created: asc'
   }
